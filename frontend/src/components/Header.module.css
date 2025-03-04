@@ -1,0 +1,11 @@
+.Header{
+  display: flex;
+  justify-content: space-around;
+  margin: 1.2rem;
+  font-size: 1.5rem;  
+}
+
+.MenuSection{
+  display: flex;
+  gap: 30px;
+}
