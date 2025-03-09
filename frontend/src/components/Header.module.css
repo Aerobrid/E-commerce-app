@@ -1,8 +1,9 @@
 .Header{
   display: flex;
-  justify-content: space-around;
-  margin: 1.2rem;
+  justify-content: space-between;
+  padding: 1.2rem;                    /*Change to margin if you want*/
   font-size: 1.5rem;
+  height: 10px;
   background-color: purple;  
   align-items: center;
 }
@@ -10,7 +11,7 @@
 .MenuSection{
   display: flex;
   justify-content: space-between;
-  gap: 30px;
+  gap: 40px;
 }
 
 .logo-icon {
